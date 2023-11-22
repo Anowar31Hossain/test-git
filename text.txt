@@ -1,0 +1,6 @@
+working directory → stagging area  → local repository  → remote repository
+
+test-projects     →  git add........→ git commit .......→ git push
+
+tracked 
+untracked
