@@ -4,6 +4,6 @@ test-projects     →  git add........→ git commit .......→ git push
 
 tracked 
 untracked
-make changes -->git add 
--->git commit -->git push
+make changes -->git add .
+-->git commit -m "message" -->git push
 git pull
