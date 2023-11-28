@@ -1,0 +1,8 @@
+Topic name: branching and merging
+for create branch cmd: git branch branch name
+for check branch cmd: git branch
+for switch branch cmd: git checkout branch name 
+for deleting branch cmd: git branch -d branch name 
+for merging cmd: git merge branch name 
+(Note that: this merge occured in remain main/master branch)
+
