@@ -1,0 +1,14 @@
+This is text5.txt file for checking the merge conflict problem and
+solve this problem.
+-->If there occure this thing that we write something this file from 
+   master branch and commit also from master branch.
+
+
+
+-->And another we create a branch and write something in same line and also 
+   commit this from another branch.
+
+
+So, there see an conflict after merge this with created branch.
+
+
