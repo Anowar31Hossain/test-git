@@ -11,5 +11,6 @@ solve this problem.
 
 So, there see an conflict after merge this with created branch.
 this is from master branch.
+this message from feature3 branch.
 
 
