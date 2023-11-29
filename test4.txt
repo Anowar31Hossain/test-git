@@ -1,0 +1,2 @@
+This project is related to git and github practice project.
+and this txt file related to another branch directly push the github without deleting the this branch.
